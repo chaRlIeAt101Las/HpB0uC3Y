@@ -37,7 +37,6 @@ tmp_dir = "tmp"
   main_only = false
   time = false
 
-[misc]
   clean_on_exit = false
 
 [proxy]
