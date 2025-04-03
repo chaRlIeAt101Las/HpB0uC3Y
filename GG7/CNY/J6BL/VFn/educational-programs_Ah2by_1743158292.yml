@@ -43,7 +43,6 @@ rules:
     - error
   no-implicit-coercion:
     - error
-  wrap-iife:
     - error
     - inside
   strict:
