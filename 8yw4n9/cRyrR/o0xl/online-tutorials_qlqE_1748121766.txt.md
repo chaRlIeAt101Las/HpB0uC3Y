@@ -9,4 +9,3 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - The pull request and commit should have a useful title.
 
-Thank you for your suggestions!
